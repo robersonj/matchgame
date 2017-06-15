@@ -16,7 +16,7 @@ MatchGame.generateCardValues = function () {
         cardValues.push(v);
   }
     return cardValues;
-}
+};
 
 
 /*
